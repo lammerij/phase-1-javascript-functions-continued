@@ -1,1 +1,3 @@
-// code your solution here
+function saturdayFun() {
+  if (saturdayFun) return "This Saturday, I want to roller-skate!";
+}
